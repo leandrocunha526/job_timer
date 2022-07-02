@@ -6,6 +6,7 @@ Application for managing a project's tasks.
 
 Using:
 
+- Flutter
 - Isar
 - JSON Serializable
 - FL Chart
