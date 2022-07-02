@@ -15,11 +15,11 @@ class LoginController extends Cubit<LoginState>{
       emit(state.copyWith(status: LoginStatus.loading));
       await _authService.signIn();
     }catch(e, s){
-      log("Error to login", error: e, stackTrace: s);
+      log("Error to sign in", error: e, stackTrace: s);
       emit(
         state.copyWith(
           status: LoginStatus.failure,
-          errorMessage: "Login error"
+          errorMessage: "Ops! Ocorreu um erro ao realizar o login"
         )
       );
     }
