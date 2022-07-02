@@ -4,6 +4,16 @@
 
 Application for managing a project's tasks.
 
+Using:
+
+- Isar
+- JSON Serializable
+- FL Chart
+- Flutter Modular
+- Google Sign-In
+- Firebase Core and Auth
+- Build Runner
+
 ## Design
 
 [Figma](https://www.figma.com/file/eJK6AHqHXEAurdkDmvPdF2/Job-Timer?node-id=0%3A1)
