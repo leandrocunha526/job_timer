@@ -4,6 +4,8 @@
 
 Application for managing a project's tasks.
 
+🚧 Job Timer is under development 🚧
+
 Using:
 
 - Flutter
