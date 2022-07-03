@@ -21,6 +21,8 @@ Using:
 - [Validatorless](https://pub.dev/packages/validatorless)
 - [Equatable](https://pub.dev/packages/equatable)
 
+![screenshot](https://i.imgur.com/v0u33A3.png)
+
 ## Design
 
 [Figma](https://www.figma.com/file/eJK6AHqHXEAurdkDmvPdF2/Job-Timer?node-id=0%3A1)
