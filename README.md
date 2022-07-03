@@ -8,14 +8,15 @@ Application for managing a project's tasks.
 
 Using:
 
-- Flutter
-- Isar
-- JSON Serializable
-- FL Chart
-- Flutter Modular
-- Google Sign-In
-- Firebase Core and Auth
-- Build Runner
+- [Flutter](https://flutter.dev)
+- [Isar](https://pub.dev/packages/isar)
+- [JSON Serializable](https://pub.dev/packages/json_serializable)
+- [FL Chart](https://pub.dev/packages/fl_chart)
+- [Flutter Modular](https://pub.dev/packages/flutter_modular)
+- [Google Sign-In](https://pub.dev/packages/google_sign_in)
+- [Firebase Core](https://pub.dev/packages/firebase_core)
+- [Firebase Auth](https://pub.dev/packages/firebase_auth)
+- [Build Runner](https://pub.dev/packages/build_runner)
 
 ## Design
 
