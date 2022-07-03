@@ -17,6 +17,9 @@ Using:
 - [Firebase Core](https://pub.dev/packages/firebase_core)
 - [Firebase Auth](https://pub.dev/packages/firebase_auth)
 - [Build Runner](https://pub.dev/packages/build_runner)
+- [Asuka](https://pub.dev/packages/asuka)
+- [Validatorless](https://pub.dev/packages/validatorless)
+- [Equatable](https://pub.dev/packages/equatable)
 
 ## Design
 
